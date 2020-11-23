@@ -1,0 +1,3 @@
+*.sql
+logs.txt
+.env
